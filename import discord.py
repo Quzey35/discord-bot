@@ -3,7 +3,7 @@ from discord.ext import commands
 import random
 
 # Bot token'inizi buraya ekleyin
-TOKEN = 'MTMwNTE5NTM0NjAzMjU5MDg2OA.GIJYnh.rkBRHw6ot0X3uTYpFbozN9BckE-Ad9-O56ooGI'
+TOKEN = 'TOKEN GİR'
 
 # Intents ayarını yapıyoruz
 intents = discord.Intents.default()
